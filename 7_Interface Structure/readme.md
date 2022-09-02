@@ -1,4 +1,4 @@
-# Interface Structure
+# 7_Interface Structure
 
 Interface Structure adalah sebuah susunan dari berbagai macam komponen yang menjadi suatu halaman atau suatu fungsi tertentu. Dengan memahami structure dari sebuah interface, akan sangat membantu berkolaborasi dengan developer, karena menggunakan bahasa yang sama. 
 
